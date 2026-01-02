@@ -5,7 +5,7 @@
 
 ### Option 1: Quick Edit on GitHub (Easiest)
 
-1. **Open the places file:** [Click here to edit places.md](https://github.com/lewispour/calorised-places-to-eat-uk/edit/main/places.md)
+1. **Open the places file:** [Click here to edit places.md](https://github.com/lewispour/uk-calories-places-to-eat/edit/main/places.md)
 2. **Find the right category** (or scroll to the bottom to add a new one)
 3. **Add your restaurant** using this format:
    ```
