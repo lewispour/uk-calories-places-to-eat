@@ -64,7 +64,7 @@ export default function Home() {
 
               {/* Add a Place - Desktop */}
               <a
-                href="https://github.com/lewispour/calorised-places-to-eat-uk#how-to-add-a-restaurant"
+                href="https://github.com/lewispour/uk-calories-places-to-eat#how-to-add-a-restaurant"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="
@@ -168,7 +168,7 @@ export default function Home() {
               </p>
               <div className="flex items-center gap-4">
                 <a
-                  href="https://github.com/lewispour/calorised-places-to-eat-uk"
+                  href="https://github.com/lewispour/uk-calories-places-to-eat"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="text-[var(--text-muted)] hover:text-[var(--accent-primary)] transition-colors"
