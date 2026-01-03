@@ -145,7 +145,7 @@ export default function Home() {
                 Know a restaurant with calorie info? Help us grow the list!
               </p>
               <a
-                href="https://github.com/lewispour/calorised-places-to-eat-uk#how-to-add-a-restaurant"
+                href="https://github.com/lewispour/uk-calories-places-to-eat#how-to-add-a-restaurant"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="
